@@ -1,6 +1,9 @@
 # RiotAPI-Test
 Projeto realizado com o intuito te aprender mais sobre como consumir dados a partir de uma API, entender mais sobre o ciclo de vida de uma aplicação web MVC
 
+
+O "core" do projeto será encontrado em: "RiotAPI-Test/src/main/java/test/api/"
+
 # Funcionamento do projeto
 
 A tarefa do projeto é usar a API desenvolvida pela empresa Riot Games para retornar as últimas 10 partidas de tal jogador - também definido como "Summoner" -
